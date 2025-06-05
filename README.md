@@ -1,12 +1,22 @@
 # 👋 Bem vindo!! Me chamo Daniela Medeiro Mota
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-💻 Atualmente aprofundando meus conhecimentos em **Desenvolvimento Backend** com foco em **Java e Spring Boot**  
-🚀 Participante do programa **Oracle Next Education (ONE) - G8**  
-🌱 Sempre em busca de aprender mais sobre arquitetura de software, microsserviços e boas práticas de desenvolvimento
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
+- 💻 Atualmente aprofundando meus conhecimentos em **Desenvolvimento Backend** com foco em **Java e Spring Boot**  
+- 🚀 Participante do programa **Oracle Next Education (ONE) - Trilha Backend + IA**
+- 🚀 Participante do programa **Elas na IA - Microsoft Reactor + WOMAKERS**
+- 🌱 Sempre em busca de aprender mais sobre arquitetura de software, microsserviços e boas práticas de desenvolvimento!
 
 ---
+<div>
+  <a href="https://github.com/danimmota/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=danimmota&show_icons=true&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/danimmota/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danimmota&layout=compact&theme=tokyonight&langs_count=8&card_width=320" />
+  </a>
+</div>
 
+---
 ## 🛠️ Tecnologias e Ferramentas
 
 - **Linguagens:** Java, JavaScript, HTML, CSS, SQL  
@@ -14,7 +24,7 @@
 - **Banco de Dados:** MySQL, PostgreSQL  
 - **Mensageria:** RabbitMQ  
 - **Ferramentas:** Git, GitHub, Docker, Postman, MySQL Workbench  
-- **Metodologias:** MVC, RESTful, Clean Code, SOLID
+- **Metodologias:** MVC, RESTfull, Clean Code, SOLID
 
 ---
 
@@ -37,8 +47,8 @@
 ## 📫 Contato
 
 - ✉️ [danielamedeiromota@hotmail.com]  
-- 💼 [LinkedIn]([https://linkedin.com/in/seu-usuario](https://www.linkedin.com/in/danielammota/))  
-- 🌐 [Portfólio (opcional)]([https://seusite.dev](https://portfoliodanimota.vercel.app/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/danielammota/)  
+- 🌐 [Portfólio](https://portfoliodanimota.vercel.app/)
 
 ---
 
