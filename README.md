@@ -30,11 +30,17 @@
 
 ## ⚙️ Projetos em Destaque
 
-- [🔗 Clínica Estética API](https://github.com/Danimmota/ClinicalClient.git)  
+- [🔗 Clínica Estética API](https://github.com/Danimmota/ClinicalClient.git)  - Refatorando
   API RESTful para agendamento de procedimentos e gerenciamento de profissionais.  
 
-- [🔗 Serviço de Mensageria](https://github.com/Danimmota/EmailClinical.git)  
+- [🔗 Serviço de Mensageria](https://github.com/Danimmota/EmailClinical.git)  - Refatorando
   Serviço responsável pelo envio de e-mails após agendamentos e cancelamentos via RabbitMQ.  
+
+- [🔗 Gestão de Alunos](https://github.com/Danimmota/ApiGestaoAlunos.git)
+  Projeto pessoal para estudar atualizações Java - API de gestão de Alunos e Matrículas.
+
+-  [🔗 Sound API](https://github.com/Danimmota/Api_Sound.git)
+  Uma API que integra a API do Gemini para buscar dados de artistas e músicas.
 
 - [🔗 Conversor de Moedas](https://github.com/Danimmota/Conversor-moedas.git)  
   Aplicação em Java via console utilizando ExchangeRate API.
