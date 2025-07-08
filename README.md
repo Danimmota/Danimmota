@@ -30,12 +30,10 @@
 
 ## ⚙️ Projetos em Destaque
 
-- Refatorando
-- [🔗 Clínica Estética API](https://github.com/Danimmota/ClinicalClient.git)  
+- Refatorando - [🔗 Clínica Estética API](https://github.com/Danimmota/ClinicalClient.git)  
   API RESTful para agendamento de procedimentos e gerenciamento de profissionais.  
 
-- Refatorando
-- [🔗 Serviço de Mensageria](https://github.com/Danimmota/EmailClinical.git)  
+- Refatorando - [🔗 Serviço de Mensageria](https://github.com/Danimmota/EmailClinical.git)  
   Serviço responsável pelo envio de e-mails após agendamentos e cancelamentos via RabbitMQ.  
 
 - [🔗 Gestão de Alunos](https://github.com/Danimmota/ApiGestaoAlunos.git)
