@@ -7,12 +7,12 @@
 - 🌱 Sempre em busca de aprender mais sobre arquitetura de software, microsserviços e boas práticas de desenvolvimento!
 
 ---
-<div>
-  <a href="https://github.com/danimmota/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=danimmota&show_icons=true&theme=tokyonight&card_width=100" />
+<div align="center">
+  <a href="https://github.com/danimmota">
+    <img src="https://github-readme-stats.vercel.app/api?username=danimmota&show_icons=true&theme=tokyonight" style="width: 49%;" />
   </a>
-  <a href="https://github.com/danimmota/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danimmota&layout=compact&theme=tokyonight&langs_count=8&card_width=320" />
+  <a href="https://github.com/danimmota">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danimmota&layout=compact&theme=tokyonight&langs_count=8" style="width: 49%;" />
   </a>
 </div>
 
@@ -27,7 +27,12 @@
 - **Metodologias:** MVC, RESTfull, Clean Code, SOLID
 
 ---
+## 💁 Colaborativos
 
+- ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) - [Comandos Git](https://github.com/Danimmota/comandos-uteis-git.git)
+- Se você tem dúvidas em comandos Git, taí de forma bem didática vários comandos úteis!!
+
+---
 ## ⚙️ Projetos em Destaque
 
 - Refatorando - [🔗 Clínica Estética API](https://github.com/Danimmota/ClinicalClient.git)  
