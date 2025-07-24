@@ -1,9 +1,8 @@
 # 👋 Bem vindo!! Me chamo Daniela Medeiro Mota
 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na UniCEUB
 - 💻 Atualmente aprofundando meus conhecimentos em **Desenvolvimento Backend** com foco em **Java e Spring Boot**  
 - 🚀 Participante do programa **Oracle Next Education (ONE) - Trilha Backend + IA**
-- 🚀 Participante do programa **Elas na IA - Microsoft Reactor + WOMAKERS**
 - 🌱 Sempre em busca de aprender mais sobre arquitetura de software, microsserviços e boas práticas de desenvolvimento!
 
 ---
@@ -19,11 +18,11 @@
 ---
 ## 🛠️ Tecnologias e Ferramentas
 
-- **Linguagens:** Java, JavaScript, HTML, CSS, SQL  
+- **Linguagens:** Java, JavaScript, Python, HTML, CSS, SQL  
 - **Frameworks:** Spring Boot, Spring Data JPA, Spring Security, Spring Validation, Spring AMPQ  
 - **Banco de Dados:** MySQL, PostgreSQL  
 - **Mensageria:** RabbitMQ  
-- **Ferramentas:** Git, GitHub, Docker, Postman, MySQL Workbench  
+- **Ferramentas:** Git, GitHub, Docker, Postman, Insomnia, MySQL Workbench, PG Admin
 - **Metodologias:** MVC, RESTfull, Clean Code, SOLID
 
 ---
