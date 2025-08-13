@@ -1,4 +1,4 @@
-<h1 align"center">👋 Bem vindo!! Me chamo Daniela Medeiro Mota</h1>
+<h1 align="center">👋 Bem vindo!! Me chamo Daniela Medeiro Mota</h1>
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na UniCEUB
 - 💻 Atualmente aprofundando meus conhecimentos em **Desenvolvimento Backend** com foco em **Java e Spring Boot**  
@@ -33,6 +33,9 @@
 
 ---
 ## ⚙️ Projetos em Destaque
+
+- [🔗 Forum Hub API](https://github.com/Danimmota/forum-hub-challenge.git)
+  API RESTful desenvolvida em Java 21 com Spring Boot para gerenciamento de cursos, tópicos, respostas e usuários em um fórum de discussão.
 
 - Refatorando - [🔗 Clínica Estética API](https://github.com/Danimmota/ClinicalClient.git)  
   API RESTful para agendamento de procedimentos e gerenciamento de profissionais.  
