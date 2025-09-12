@@ -52,7 +52,7 @@
 - [🔗 Conversor de Moedas](https://github.com/Danimmota/Conversor-moedas.git)  
   Aplicação em Java via console utilizando ExchangeRate API.
 
-  - [🔗 To Do List](https://github.com/Danimmota/to-do-list)  
+- [🔗 To Do List](https://github.com/Danimmota/to-do-list)  
   API em Java para gerenciamento de tarefas (CRUD) com testes unitários para métodos controller.
 
 - [🔗 My Notes ](https://github.com/Danimmota/MyNotes.git)  
