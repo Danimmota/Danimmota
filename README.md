@@ -1,8 +1,8 @@
 <h1 align="center">👋 Bem vindo!! Me chamo Daniela Medeiro Mota</h1>
 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na UniCEUB
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no UniCEUB
 - 💻 Atualmente aprofundando meus conhecimentos em **Desenvolvimento Backend** com foco em **Java e Spring Boot**  
-- 🚀 Participante do programa **Oracle Next Education (ONE) - Trilha Backend + IA**
+- 🚀 Participante do programa **Oracle Next Education (ONE) - Tech Advance**
 - 🌱 Sempre em busca de aprender mais sobre arquitetura de software, microsserviços e boas práticas de desenvolvimento!
 
 ---
@@ -51,6 +51,9 @@
 
 - [🔗 Conversor de Moedas](https://github.com/Danimmota/Conversor-moedas.git)  
   Aplicação em Java via console utilizando ExchangeRate API.
+
+  - [🔗 To Do List](https://github.com/Danimmota/to-do-list)  
+  API em Java para gerenciamento de tarefas (CRUD) com testes unitários para métodos controller.
 
 - [🔗 My Notes ](https://github.com/Danimmota/MyNotes.git)  
   Extensão prática do Google Chrome que traz a facilidade de um bloco de notas rápido.
