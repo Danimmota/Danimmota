@@ -49,9 +49,9 @@
   - [🔗 Gestão de Alunos](https://github.com/Danimmota/ApiGestaoAlunos.git)
   Projeto pessoal para estudar atualizações Java. O projeto é uma APIRest em arquitetura MVC, de gestão de Alunos e Matrículas em que utilizei Java 21, Spring Boot, Spring Data JPA, Lombok para diminuir verbosidade no código, Bean Validation para vlidação dos dados, e banco de dados em memória (H2).
 - Python
-  -[🔗 Gerador de QR Code e código de barras](https://github.com/Danimmota/qr-code-and-cod-bar.git)
-  Projeto pessoal em que realizo um gerador de QRcode e codigo de barras, simples e didático, em que pode gerar um QR a partir de qualquer informação, como exemplo uma URL(https://www.linkedin.com/in/danielammota/) gerado em: clique para visualizar o QRcode [QRcode do meu linkedin](https://github.com/Danimmota/qr-code-and-cod-bar/blob/main/linkedin_qrcode.png); além de poder gerar uma pasta contendo códigos de barras a partir de um arquivo com extensões como .csv ou .xlsx(arquivo Excel).
--JavaScript
+  - [🔗 Gerador de QR Code e código de barras](https://github.com/Danimmota/qr-code-and-cod-bar.git)
+  Projeto pessoal em que realizo um gerador de QRcode e codigo de barras, simples e didático, em que pode gerar um QR a partir de qualquer informação, como exemplo uma URL(https://www.linkedin.com/in/danielammota/) gerado em: clique para visualizar o [QRcode do meu linkedin](https://github.com/Danimmota/qr-code-and-cod-bar/blob/main/linkedin_qrcode.png); além de poder gerar uma pasta contendo códigos de barras a partir de um arquivo com extensões como .csv ou .xlsx(arquivo Excel).
+- JavaScript
   - [🔗 My Notes ](https://github.com/Danimmota/MyNotes.git)  
   Extensão prática do Google Chrome que traz a facilidade de um bloco de notas rápido.
 
