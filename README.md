@@ -37,6 +37,11 @@
   - [🔗 Forum Hub API](https://github.com/Danimmota/forum-hub-challenge.git)
   API RESTful desenvolvida em Java 21 com Spring Boot para gerenciamento de cursos, tópicos, respostas e usuários em um fórum de discussão, nela realizo toda parte de autenticação e autorização com controle de acesso entre usuários através de filtros configurados para proteger endpoints, além de realizar a validação de senhas utilizando expressão regular e garantir a criação de senhas seguras. O projeto possui documentação Swagger e testes unitários cobrindo a 'controller' de tópicos.
 
+  - [🔗 Clinical](https://github.com/Danimmota/ClinicalClient)
+    Neste projeto utilizei minha experiência profissional anterior na área da saúde e desenvolvi com o objetivo de facilitar a comunicação entre o cliente e as clínicas que possuem diversos profissionais de diferentes especialidades. A aplicação é uma API Restful que oferece um ambiente unificado para o gerenciamento completo da clínica, incluindo agendamentos, controle de profissionais, envio de e-mails e muito mais.
+    Nela pude realizar de diferencial a integração com o serviço de mensagens (onde ocorre o envio automático de e-mails aos clientes confirmando ou cancelando agendamentos) através de comunicação assíncrona utilizando Spring AMQP e RabbitMQ, além de toda a infra baseada em containers para melhor manutenabilidade e escalabilidade.
+    Neste momento tenho retomado o projeto para fins acadêmicos, para refatoração do código e melhorias com Spring Security + Token JWT (autenticação e autorização), banco de dados em cache com Redis e assistente de IA.
+
   - [🔗 Sound API](https://github.com/Danimmota/Api_Sound.git)
   Projeto pessoal realizado para estudar integração de Inteligência Artificial à uma aplicação em Java. Neste projeto realizei uma API que integra a API do Gemini para buscar dados de artistas e músicas e armazenar estes dados
 
