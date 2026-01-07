@@ -1,6 +1,6 @@
 <h1 align="center">👋 Bem vindo!! Me chamo Daniela Mota</h1>
 
-- 🎓 Sou estudante e estou no 4° período de **Análise e Desenvolvimento de Sistemas** no UniCEUB
+- 🎓 Sou estudante e estou no 5° período de **Análise e Desenvolvimento de Sistemas** no UniCEUB
 - Possuo experiência como freelancer onde atuei com **Desenvolvimento Backend** que é onde desejo atuar na programação, por enquanto busco aprofundar meus conhecimentos com foco no universo **Java**, mas já realizei projetos em outras linguagens (descritas abaixo 👇🏻 em 'Tecnologias e Ferramentas').
 - Sou participante do programa **Oracle Next Education (ONE) - Tech Advance**
 - Sou uma fiel entusiasta em aprender coisas novas, melhorar técnicas e boas práticas, sou do time que acredita que "sempre haverá algo para se aprender", dito isso meus tópicos do momento para os estudos são arquitetura de software, microsserviços, system design e boas práticas de desenvolvimento.
