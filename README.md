@@ -1,10 +1,9 @@
 <h1 align="center">👋 Bem vindo!! Me chamo Daniela Mota</h1>
 
-- 🎓 Sou estudante e estou no 5° período de **Análise e Desenvolvimento de Sistemas** no UniCEUB
-- Possuo experiência como freelancer onde atuei com **Desenvolvimento Backend** que é onde desejo atuar na programação, por enquanto busco aprofundar meus conhecimentos com foco no universo **Java**, mas já realizei projetos em outras linguagens (descritas abaixo 👇🏻 em 'Tecnologias e Ferramentas').
-- Sou participante do programa **Oracle Next Education (ONE) - Tech Advance**
-- Sou uma fiel entusiasta em aprender coisas novas, melhorar técnicas e boas práticas, sou do time que acredita que "sempre haverá algo para se aprender", dito isso meus tópicos do momento para os estudos são arquitetura de software, microsserviços, system design e boas práticas de desenvolvimento.
-- Amo ler, desde romance à livros de finanças, gosto de jogar Counter Strike, mas o que realmente amo é ficar com minha família e passear com minhas meninas, pricipalmente ao ar livre, aproveitando a natureza!
+- 🎓Sou estudante do 5º período de Análise e Desenvolvimento de Sistemas no UniCEUB e atuo como Desenvolvedora Backend, com experiência em projetos freelancer. Atualmente também atuo como Estagiária em Desenvolvimento Android, trabalhando com Kotlin e Jetpack Compose na construção de aplicações mobile.
+-  Tenho como principal foco o ecossistema Java, desenvolvendo APIs, integrações e soluções backend, sempre buscando escrever código limpo, organizado e orientado a boas práticas. Ao longo da minha jornada também desenvolvi projetos utilizando outras linguagens e tecnologias (descritas abaixo em Tecnologias e Ferramentas).
+- Sou uma fiel entusiasta em aprender coisas novas, melhorar técnicas e boas práticas, sou do time que acredita que "sempre haverá algo para se aprender", dito isso meus tópicos do momento para os estudos são Clean Architect, microsserviços, system design e boas práticas de desenvolvimento.
+- Fora do código, sou apaixonada por leitura — desde romances até livros sobre finanças e desenvolvimento pessoal. Também gosto de jogar Counter-Strike, mas o que realmente valorizo é passar tempo com minha família e passear com minhas meninas, especialmente ao ar livre e em contato com a natureza.
 
 ---
 <div align="center">
@@ -16,14 +15,14 @@
 ---
 ## 💻 Tecnologias e Ferramentas
 
-- **Linguagens:** Java, JavaScript, Python, HTML, CSS, SQL  
+- **Linguagens:** Java, Kotlin, JavaScript, Python, HTML, CSS, SQL  
 - **Frameworks:** Spring Boot, Spring Data JPA, Spring Security, Spring Validation, Spring AMPQ  
 - **Banco de Dados:** MySQL, PostgreSQL, SQL Server
 - **Mensageria:** RabbitMQ  
 - **Infra:** Docker
 - **Ferramentas:** Postman, Insomnia
 - **Versionamento:** Git, GitHub
-- **Metodologias:** MVC, RESTfull, Clean Code, SOLID, Arquitetura em camadas, TDD
+- **Metodologias:** MVC, MVI, RESTfull, Clean Code, SOLID, Arquitetura em camadas, TDD
 
 ---
 ## 💁 Colaborativos
@@ -53,6 +52,11 @@
   
   - [🔗 Gestão de Alunos](https://github.com/Danimmota/ApiGestaoAlunos.git)
   Projeto pessoal para estudar atualizações Java. O projeto é uma APIRest em arquitetura MVC, de gestão de Alunos e Matrículas em que utilizei Java 21, Spring Boot, Spring Data JPA, Lombok para diminuir verbosidade no código, Bean Validation para vlidação dos dados, e banco de dados em memória (H2).
+
+- Kotlin
+  - [🔗 Encurtador de URL](https://github.com/Danimmota/encurtadorurl)
+  Aplicação Android desenvolvido em Kotlin utilizando Jetpack Compose, que permite encurtar URLs de forma rápida e prática.
+  Desenvolvido visando boas práticas no desenvolvimento.
 
 - Python
   - [🔗 Gerador de QR Code e código de barras](https://github.com/Danimmota/qr-code-and-cod-bar.git)
