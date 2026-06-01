@@ -58,6 +58,10 @@
   Aplicação Android desenvolvido em Kotlin utilizando Jetpack Compose, que permite encurtar URLs de forma rápida e prática.
   Desenvolvido visando boas práticas no desenvolvimento.
 
+- React Native
+  - [🔗 EBula](https://github.com/Rosa-Junior/Ebula)
+  App desenvolvido em grupo com foco acadêmico e demonstrativo como Projeto Final do curso de Análise e Desenvolvimento de Sistemas, utilizando React Native, TypeScript e Expo Go com foco em facilitar o acesso rápido e simplificado a informações de medicamentos, proporcionando maior praticidade para profissionais da saúde durante rotinas hospitalares e clínicas.
+
 - Python
   - [🔗 Gerador de QR Code e código de barras](https://github.com/Danimmota/qr-code-and-cod-bar.git)
   Projeto pessoal em que realizo um gerador de QRcode e codigo de barras, simples e didático, em que pode gerar um QR a partir de qualquer informação, como exemplo uma URL(https://www.linkedin.com/in/danielammota/) gerado em: clique para visualizar o [QRcode do meu linkedin](https://github.com/Danimmota/qr-code-and-cod-bar/blob/main/linkedin_qrcode.png); além de poder gerar uma pasta contendo códigos de barras a partir de um arquivo com extensões como .csv ou .xlsx(arquivo Excel).
